@@ -1,5 +1,15 @@
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LucasBS8&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LucasBS8&layout=compact)
+
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=LucasBS8&show_icons=true&theme=tokyonight"
+    media="(prefers-color-scheme: tokyonight)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=LucasBS8&show_icons=true"
+    media="(prefers-color-scheme: dark), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
+</picture>
   <hr>
   <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">

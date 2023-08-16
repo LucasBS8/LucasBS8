@@ -3,10 +3,10 @@ Aprecio a área da T.I. principalmente na programção, pretendo no futuro parti
 
 <hr>
 <a href="https://github.com/LucasBS8/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=LucasBS8" />
+  <img height=200 width=500 align="center" src="https://github-readme-stats.vercel.app/api?username=LucasBS8" />
 </a>
 <a href="https://github.com/LucasBS8/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=LucasBS8&layout=compact&langs_count=8&card_width=280" />
+  <img height=200 width=500 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=LucasBS8&layout=compact&langs_count=8&card_width=280" />
 </a>
 
 <p>

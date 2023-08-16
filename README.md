@@ -10,6 +10,8 @@
   />
   <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
 </picture>
+<p><a href="http://SqdPxl.deviantart.com/"><img src="https://encurtador.com.br/gtK56"></a>
+</p>
   <hr>
   <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">

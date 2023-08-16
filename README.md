@@ -1,16 +1,16 @@
-
 <a href="https://github.com/LucasBS8/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=LucasBS8" />
 </a>
 <a href="https://github.com/LucasBS8/convoychat">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=LucasBS8&layout=compact&langs_count=8&card_width=300" />
 </a>
+
 <p>
-  <a href="http://SqdPxl.deviantart.com/"><img src="https://encurtador.com.br/gtK56"></a>
-  <a href="http://SqdPxl.deviantart.com/"><img src="https://encurtador.com.br/gtK56"align="right" style = "transform: scale(-1, 1);"></a>
+  <a href="http://SqdPxl.deviantart.com/"><img src="https://encurtador.com.br/gtK56"align="left"></a>
+  <a href="http://SqdPxl.deviantart.com/"><img src="https://encurtador.com.br/gtK56"align="right"></a>
 </p>
-  <hr>
-  <div style="display: inline_block"><br>
+  <hr padding = "7%">
+  <div style="display: inline_block", align = "center"><br>
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">

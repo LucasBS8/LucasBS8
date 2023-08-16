@@ -10,7 +10,9 @@
   />
   <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
 </picture>
-<p><a href="http://SqdPxl.deviantart.com/"><img src="https://encurtador.com.br/gtK56"></a>
+<p>
+  <a href="http://SqdPxl.deviantart.com/"><img src="https://encurtador.com.br/gtK56"></a>
+  <a href="http://SqdPxl.deviantart.com/"><img src="https://encurtador.com.br/gtK56"align="right" style = "transform: scale(-1, 1);"></a>
 </p>
   <hr>
   <div style="display: inline_block"><br>

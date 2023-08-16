@@ -1,15 +1,10 @@
 
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=LucasBS8&show_icons=true&theme=tokyonight"
-    media="(prefers-color-scheme: tokyonight)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=LucasBS8&show_icons=true"
-    media="(prefers-color-scheme: dark), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
-</picture>
+<a href="https://github.com/LucasBS8/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=LucasBS8" />
+</a>
+<a href="https://github.com/LucasBS8/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=LucasBS8&layout=compact&langs_count=8&card_width=300" />
+</a>
 <p>
   <a href="http://SqdPxl.deviantart.com/"><img src="https://encurtador.com.br/gtK56"></a>
   <a href="http://SqdPxl.deviantart.com/"><img src="https://encurtador.com.br/gtK56"align="right" style = "transform: scale(-1, 1);"></a>

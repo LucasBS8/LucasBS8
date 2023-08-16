@@ -6,7 +6,7 @@ Aprecio a área da T.I. principalmente na programção, pretendo no futuro parti
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=LucasBS8" />
 </a>
 <a href="https://github.com/LucasBS8/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=LucasBS8&layout=compact&langs_count=8&card_width=180" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=LucasBS8&layout=compact&langs_count=8&card_width=300" />
 </a>
 
 <p>

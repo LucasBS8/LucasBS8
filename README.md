@@ -10,8 +10,8 @@ Aprecio a área da T.I. principalmente na programção, pretendo no futuro parti
 </a>
 
 <p>
-  <a href="http://SqdPxl.deviantart.com/"><img src="https://encurtador.com.br/pzBL8"align="left"></a>
-  <a href="http://SqdPxl.deviantart.com/"><img src="https://encurtador.com.br/pzBL8"align="right"></a>
+  <a href="https://www.deviantart.com/sqdpxl/art/FREE-untitled-goose-dance-823773778"><img src="https://encurtador.com.br/pzBL8"align="left"></a>
+  <a href="https://www.deviantart.com/sqdpxl/art/FREE-untitled-goose-dance-823773778"><img src="https://encurtador.com.br/pzBL8"align="right"></a>
   <hr>
 </p>
 

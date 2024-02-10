@@ -2,12 +2,10 @@
 Aprecio a área da T.I. principalmente na programção, pretendo no futuro participar ou criar meu projeto sobre jogos.
 
 <hr>
-<a href="https://github.com/LucasBS8/github-readme-stats">
-  <img height=200 width=400 align="rigth" src="https://github-readme-stats.vercel.app/api?username=LucasBS8" />
-</a>
-<a href="https://github.com/LucasBS8/convoychat">
-  <img height=200 width=400 align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=LucasBS8&layout=compact&langs_count=8&card_width=280" />
-</a>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LucasBS8&hide_progress=true&theme=tokyonight)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LucasBS8&theme=tokyonight)
 
 <p>
   <div >

@@ -38,5 +38,5 @@ Aprecio a área da T.I. principalmente na programção, pretendo no futuro parti
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/LucasBS8/LucasBS8/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/LucasBS8/LucasBS8/output/github-contribution-grid-snake.svg">
 </picture>
- ![Snake animation](https://github.com/LucasBS8/LucasBS8/blob/output/github-contribution-grid-snake.svg)
+
 _generated with [Platane/snk](https://github.com/Platane/snk)_

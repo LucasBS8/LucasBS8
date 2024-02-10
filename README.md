@@ -10,9 +10,11 @@ Aprecio a área da T.I. principalmente na programção, pretendo no futuro parti
 </a>
 
 <p>
-  <a href="./img/reiki16bts.png"><img src="https://encurtador.com.br/pzBL8"align="left"></a>
-  <a href="./img/reiki16bts.png"><img src="https://encurtador.com.br/pzBL8"align="right"></a>
-  <hr>
+  <div >
+  <a href="img/reiki16bts.png"><img src="./img/reiki16bts.png""align="left"></a>
+    <hr>
+  <a href="img/reiki16bts.png"><img src="./img/reiki16bts.png""align="right"></a>
+</div>
 </p>
 
   <div style="display: inline_block", align = "center"><br>

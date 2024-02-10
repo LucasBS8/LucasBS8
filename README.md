@@ -8,9 +8,8 @@ Aprecio a área da T.I. principalmente na programção, pretendo no futuro parti
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LucasBS8&theme=tokyonight)
 
 <p>
-  <div >
+  <div style="align">
   <a href="img/reiki16bts.png"><img src="./img/reiki16bts.png""align="left"></a>
-    <hr>
   <a href="img/reiki16bts.png"><img src="./img/reiki16bts.png""align="right"></a>
 </div>
 </p>
@@ -24,8 +23,8 @@ Aprecio a área da T.I. principalmente na programção, pretendo no futuro parti
   <img align="center" alt="DevIcon-visualStudio" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg">
   <img align="center" alt="DevIcon-blender" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/blender/blender-original.svg" />
   <img align="center" alt="DevIcon-python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
-          
-          
+
+
   </div>
   
   ##

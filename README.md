@@ -48,7 +48,7 @@
 ![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white)
 
 ## Área do Design gráfico
- 
+ <div>
 ### Principais
 
 ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)
@@ -58,7 +58,10 @@
 
 ![Aseprite](https://img.shields.io/badge/Aseprite-FFFFFF?style=for-the-badge&logo=Aseprite&logoColor=#7D929E)
 ![Krita](https://img.shields.io/badge/Krita-203759?style=for-the-badge&logo=krita&logoColor=EEF37B)
-
+</div>
+<div>
+ <img src="https://br.freepik.com/psd-gratuitas/gamepad-controlador-de-jogo-icone-isolado-3d-render-ilustracao_29814582.htm#query=game&position=4&from_view=search&track=sph&uuid=ec2691fe-3945-47be-b772-2c731c272210" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
+</div>
 ## Área de jogos
 
 ### Pretendo estudar

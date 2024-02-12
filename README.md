@@ -1,5 +1,5 @@
 ### Olá! Eu sou Lucas! 👋
-<p>Aprecio a área da T.I. principalmente na programção, pretendo no futuro participar ou criar meu projeto sobre jogos.</p>&nbsp;
+<p>Aprecio a área da T.I. principalmente na programção, sou focado e tenho apreço em aprender novas linguagens da programação.</p>&nbsp;
 
 <div  align="center" style="margin-bottom:100px">
 

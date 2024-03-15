@@ -1,4 +1,8 @@
-### Olá! Eu sou Lucas! 👋
+<h1 align="center">
+ 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Jolly+Lodger&size=40&pause=1000&color=F7F7F7&background=FFEB0000&center=true&vCenter=true&random=false&width=435&lines=Ola%2C+me+chamo+Lucas%F0%9F%96%90%EF%B8%8F;Sejam+bem+vindos+ao+meu+perfil!)](https://git.io/typing-svg)
+
+</h1>
 <p>Aprecio a área da T.I. principalmente na programção, iniciei meus estudos em 2022, sou focado e tenho apreço em aprender novas linguagens da programação.</p>&nbsp;
 
 <div  align="center" style="margin-bottom:100px">

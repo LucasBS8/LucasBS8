@@ -9,7 +9,7 @@
 
 ![TopLangs](https://github-readme-stats.vercel.app/api/top-langs/?username=LucasBS8&hide_progress=true&theme=material-palenight&locale=pt-br)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LucasBS8&theme=material-palenight&count_private&locale=pt-br)
-
+[![GitHub Streak](https://streak-stats.demolab.com/?user=LucasBS8&theme=material-palenight)](https://git.io/streak-stats)
  </div>
 
  &nbsp;
